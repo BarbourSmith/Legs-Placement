@@ -1,0 +1,6 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-43.500001 -56.000001 87.000002 112.000002" fill="none" stroke="black" stroke-width="0.6%" vector-effect="non-scaling-stroke">
+    <path d="M 32.5 50 A 5 5 0 0 0 42.5 50 A 5 5 0 0 0 32.5 50 Z" />
+    <path d="M 32.5 -50 A 5 5 0 0 0 42.5 -50 A 5 5 0 0 0 32.5 -50 Z" />
+    <path d="M -42.5 -50 A 5 5 0 0 0 -32.5 -50 A 5 5 0 0 0 -42.5 -50 Z" />
+    <path d="M -42.5 50 A 5 5 0 0 0 -32.5 50 A 5 5 0 0 0 -42.5 50 Z" />
+</svg>
